@@ -1,0 +1,5 @@
+a = lambda x = int(input("введите число: ")): print("четное") if x % 2 == 0 else print("нечетное")
+a()
+#a = int(input('введите число'))
+#r = (a, lambda x: print('четное') if x % 2 == 0 else print('нечетное'))
+#print(r)
